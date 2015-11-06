@@ -1,0 +1,6 @@
+steps:
+  - name: Probo site setup
+    plugin: Drupal
+    profileName: helm
+    siteInstall: true
+    
